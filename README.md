@@ -9,6 +9,12 @@ A repository that serves as my lab for exploring Salesforce capabilities
 
 
 ### Apex 
+- https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_gov_limits.htm
+  + __Size-Specific Apex Limits__:
+    * Maximum number of characters for a class:	```1 million```
+    * Maximum amount of code used by all Apex code in an org:	```6 MB```
+    * Method size limit: ```65,535 bytecode instructions in compiled form```
+    
 - https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
 
 
