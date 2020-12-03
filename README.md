@@ -5,7 +5,7 @@ A repository that serves as my lab for exploring Salesforce capabilities
 ## Salesforce Documentation References
 - https://developer.salesforce.com/docs/
 
-- - https://developer.salesforce.com/docs/component-library/overview/components
+- https://developer.salesforce.com/docs/component-library/overview/components
 
 
 ### Apex 
@@ -36,15 +36,25 @@ A repository that serves as my lab for exploring Salesforce capabilities
 - https://github.com/forcedotcom/cli
 
 
+## Community Resources
+- https://trailblazer.salesforce.com/ideaSearch
+
+- https://salesforce.stackexchange.com/
+
+
 
 ## IDE Resource
 - https://developer.salesforce.com/blogs/2018/12/the-future-of-salesforce-ides.html
+
 
 ### Visual Studio 
 
 - https://developer.salesforce.com/tools/vscode/
 - https://github.com/forcedotcom/salesforcedx-vscode
 - https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode
+
+### Visual Studio Code
+- https://developer.salesforce.com/tools/vscode/
 
 
 ### Eclipse 
