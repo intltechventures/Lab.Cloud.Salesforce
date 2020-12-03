@@ -3,6 +3,28 @@
 
 ## References
 
+- https://help.salesforce.com/articleView?id=code_about.htm&type=5
+
+- https://help.salesforce.com/articleView?id=writing_code.htm&type=5
+
+- https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_dev_guide.htm
+  + v50.0
+    * https://developer.salesforce.com/docs/atlas.en-us.228.0.apexcode.meta/apexcode/apex_dev_guide.htm
+
+- https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_reference.htm
+
+- https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes.htm
+  + https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_defining.htm
+
+- https://help.salesforce.com/articleView?id=code_manage_packages.htm&type=5
+- https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_manpkgs_dev.htm
+
+
+- https://developer.salesforce.com/docs/atlas.en-us.228.0.object_reference.meta/object_reference/sforce_api_objects_concepts.htm
+
+
+## Community Resources
+- https://stackoverflow.com/search?q=apex
 
 
 ## Static Code Analysis Tools
