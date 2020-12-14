@@ -37,6 +37,8 @@ A repository that serves as my lab for exploring Salesforce capabilities
 
 
 ## Community Resources
+- https://developer.salesforce.com/forums/
+
 - https://trailblazer.salesforce.com/ideaSearch
 
 - https://salesforce.stackexchange.com/
